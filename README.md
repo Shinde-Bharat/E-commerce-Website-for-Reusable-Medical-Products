@@ -44,3 +44,7 @@ Follow these steps to run the project on your local machine:
 
 ## 📜 License  
 📌 This project is **open-source** and free to use.  
+
+
+Developed by Bharat Shinde
+
